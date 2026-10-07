@@ -1,0 +1,14 @@
+chromadb
+sentence-transformers
+pymupdf
+langchain-text-splitters
+langchain_openai
+python-dotenv
+pandas
+langchain_core
+langchain_community
+langchain
+langgraph
+fastapi
+uvicorn[standard]
+langgraph-checkpoint-sqlite 
